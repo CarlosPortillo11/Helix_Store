@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Knewave&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+#background{
+  background-color: #1e1e1e;
+}
+
+#logo{
+  height: 50px;
+  width: 60px;
+}
+
+.big_name{
+  margin-top: 150px;
+  text-align: center;
+  color: white;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 70px;
+}
+
+#btn{
+  height: 70px;
+  width: 200px;
+  margin-left: 550px;
+  background-color: orange;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+#info{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+}
+
+
+.items{
+  color: white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
+
+.advice{
+  margin-top: 110px;
+  text-align: center;
+  color: white;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 50px;
+
+}
+
+.ptitle{
+  margin-top: 10px;
+  font-size: 35px;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  margin-bottom: 20px;
+}
+
+.pinfo{
+  font-size: 21px;
+  font-family: 'Lato', sans-serif;
+}
+
+.footer{
+  margin: 260px auto 0 auto;
+  text-align: center;
+}
+
+.flogo{
+  height: 75px;
+  weight: 100px;
+  border-radius: 10px;
+}
+
+.logo:hover{
+  cursor: pointer;
+}
+
+#eslogan{
+  color: white;
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 25px;
+}
